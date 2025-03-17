@@ -1,0 +1,7 @@
+if game.GameId == 12355337193 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CookieScript/Void.Vein/refs/heads/main/Protected_7567743832002039.txt"))()
+elseif game.GameId == 155615604 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CookieScript/Void.Vein/refs/heads/main/Protected_5086152273706125.txt"))()
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CookieScript/Void.Vein/refs/heads/main/Protected_7567743832002039.txt"))()
+end
